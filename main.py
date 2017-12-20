@@ -3,8 +3,8 @@
 
 import sys
 import os
-from PyQt4.QtGui import QWidget, QPalette, QPixmap, QLabel, QApplication, QBrush, QHBoxLayout, QVBoxLayout, \
-    QDesktopWidget, QPushButton, QLineEdit, QIcon, QFont,QFileDialog,QDialog,QFormLayout,QDesktopWidget,QTextEdit
+#from PyQt4.QtGui import QWidget, QPalette, QPixmap, QLabel, QApplication, QBrush, QHBoxLayout, QVBoxLayout, \
+#    QDesktopWidget, QPushButton, QLineEdit, QIcon, QFont,QFileDialog,QDialog,QFormLayout,QDesktopWidget,QTextEdit
 #from PyQt4.QtCore import Qt,QDir,SIGNAL,QThread,pyqtSignal
 from PyQt4.QtGui import *
 from PyQt4.QtCore import *
